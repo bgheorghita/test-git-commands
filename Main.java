@@ -3,5 +3,6 @@ public class Main {
         System.out.println("test - first commit");
         System.out.println("commit - branch 1");
         System.out.println("abc 1");
+        System.out.println("abracadabra");
     }
 }
