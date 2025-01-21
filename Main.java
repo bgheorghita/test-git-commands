@@ -5,5 +5,6 @@ public class Main {
         System.out.println("abc 1");
         System.out.println("abracadabra");
         System.out.println("b1");
+        System.out.println("b2");
     }
 }
